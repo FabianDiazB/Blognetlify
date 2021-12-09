@@ -2,7 +2,7 @@
 title: Kirishima
 author: Fabian Diaz
 date: 2021-11-09
-tags: ["post", "featured"]
+tags: "post" 
 image: /assets/blog/kiri.jpg
 description: Kirishima es joven cuya habilidad especial consiste en endurecer su piel hasta convertirla en una piedra, habilidad que ha ido llevando al límite para mejorarla y explandirla para volverse "irrompible". Kirishima admira la caballerosidad y el buen comportamiento sobre todas las cosas, y se vuelve un buen amigo de Midoriya por sus cualidades heroicas y gran voluntad.
 ---
